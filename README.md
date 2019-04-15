@@ -23,3 +23,23 @@ Test application for scheduling conference room
 		}]
 }
 ```
+
+## Response scheme
+```javascript
+[ {
+  "date" : "yyyy-MM-dd",
+  "schedule" : [ {
+    "startTime" : "HH:mm",
+    "endTime" : "HH:mm",
+    "employeeId" : ""
+  }, {
+    "startTime" : "HH:mm",
+    "endTime" : "HH:mm",
+    "employeeId" : ""
+  } ]
+} ]
+```
+## Build
+```cmd
+mvn clean install
+```
