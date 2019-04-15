@@ -1,4 +1,4 @@
-# Scheduler
+# Scheduler [![Build Status](https://travis-ci.org/kovalevivan/scheduler.svg?branch=master)](https://travis-ci.org/kovalevivan/scheduler)
 Test application for scheduling conference room
 
 ## Technology stack
