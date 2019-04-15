@@ -1,0 +1,19 @@
+[ {
+  "date" : "2011-03-21",
+  "schedule" : [ {
+    "startTime" : "09:00",
+    "endTime" : "11:00",
+    "employeeId" : "EMP002"
+  } ]
+}, {
+  "date" : "2011-03-22",
+  "schedule" : [ {
+    "startTime" : "14:00",
+    "endTime" : "16:00",
+    "employeeId" : "EMP003"
+  }, {
+    "startTime" : "16:00",
+    "endTime" : "17:00",
+    "employeeId" : "EMP004"
+  } ]
+} ]

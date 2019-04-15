@@ -1,0 +1,30 @@
+{
+	"officeHours": "09001800",
+	"requestList": [{
+			"submissionTime": "2011-03-17 10:17:06",
+			"employeeId": "EMP001",
+			"meetingStartTime": "2011-03-21 09:00",
+			"meetingDurationHours": 2
+		}, {
+			"submissionTime": "2011-03-16 12:34:56",
+			"employeeId": "EMP002",
+			"meetingStartTime": "2011-03-21 09:00",
+			"meetingDurationHours": 2
+		}, {
+			"submissionTime": "2011-03-16 09:28:23",
+			"employeeId": "EMP003",
+			"meetingStartTime": "2011-03-22 14:00",
+			"meetingDurationHours": 2
+		}, {
+			"submissionTime": "2011-03-17 11:23:45",
+			"employeeId": "EMP004",
+			"meetingStartTime": "2011-03-22 16:00",
+			"meetingDurationHours": 1
+		}, {
+			"submissionTime": "2011-03-15 17:29:12",
+			"employeeId": "EMP005",
+			"meetingStartTime": "2011-03-21 16:00",
+			"meetingDurationHours": 3
+		}
+	]
+}
